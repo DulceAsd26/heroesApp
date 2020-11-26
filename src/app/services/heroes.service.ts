@@ -3,7 +3,6 @@ import { Injectable } from '@angular/core';
 import { HeroeModel } from '../models/heroe.model';
 import { map } from 'rxjs/operators';
 
-
 @Injectable({
   providedIn: 'root'
 })
